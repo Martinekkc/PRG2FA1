@@ -19,6 +19,7 @@ public class Loops {
             randomNum = (int)(Math.random()*100+1);
             System.out.println(randomNum);
         }
+        System.out.println("Novy vstup");
 
     }
 }
