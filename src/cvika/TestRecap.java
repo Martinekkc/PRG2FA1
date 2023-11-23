@@ -39,3 +39,4 @@ public class TestRecap {
         System.out.println("Je prvocislo? " + prime);
 
     }
+}
